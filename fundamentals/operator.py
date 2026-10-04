@@ -16,9 +16,9 @@ print(a ** b) #power a^b , 2^5: 32
 a = 10
 b = 20
 
-print( a== b ) 
+print( a == b ) 
 print (a != b )
-print (a >= b )
+print (a >= b ) #true
 print (a <= b )
 print (a > b)
 
